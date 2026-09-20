@@ -1,8 +1,6 @@
 # Card Market Quant
 
-I work as a trading card analyst and price Pokemon cards every week. I built this to make that faster and more accurate.
-
-It takes card sales and figures out what each card is actually worth. It throws out weird sales like typos and counts recent sales more than old ones. From there it finds underpriced listings, shows which way the market is moving, and tells you if a card is worth grading.
+This program takes card sales and figures out what each card is actually worth. It throws out weird sales/market manupulation and counts recent sales more than old ones. From there it finds underpriced listings, shows which way the market is moving, and tells you if a card is worth grading.
 
 ## How to run it
 
