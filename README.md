@@ -1,4 +1,4 @@
-# Card Market Quant
+# Card Market Analyzer
 
 This program takes card sales and figures out what each card is actually worth. It throws out weird sales/market manupulation and counts recent sales more than old ones. From there it finds underpriced listings, shows which way the market is moving, and tells you if a card is worth grading.
 
