@@ -1,7 +1,7 @@
 import csv
 import random
 from datetime import date, timedelta
-
+#estimated starting prices pulled off of Collector and Tcgplayer
 cards = [
     ("Charizard ex", 120),
     ("Umbreon VMAX", 900),
