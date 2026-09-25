@@ -1,7 +1,8 @@
+#transfer everything over from mac file
 import csv
 from datetime import date
 from statistics import median
-
+#estimated random numbers from the internet
 FEES = 0.12
 SHIPPING = 1.00
 TARGET_MARGIN = 0.25
